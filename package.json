@@ -1,0 +1,29 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "pcat photo add",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hllibrhmkrtglu/PCAT.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "Halil İbrahim Kurtoğlu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hllibrhmkrtglu/PCAT/issues"
+  },
+  "homepage": "https://github.com/hllibrhmkrtglu/PCAT#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
